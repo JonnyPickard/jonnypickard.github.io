@@ -106,16 +106,15 @@ See [Atomic Design][0] by Brad Frost for more information.
 ### Currently Working On
 
 Top priority:
-- Better bundle + deployment process - username.github.io websites can only be hosted from a master branch
-  - Currently assets are not being linked to correctly. 
-  - Therefor I will have to setup a few new branches. E.g. Develop & Release branches.
-  - Master should be clean apart from the static assets + docs/ README
 - Hero Section part 2 
   -  Setup App testing
   -  Sticky navbar/ solution for navbar on page change etc
   -  Viewport Size detection HOC
 
-Lower priority
+Lower priority/ Backlog
+- Better bundle + deployment process pt 2 
+  -  Work out whether a CI tool or git Tags for versioning would be a good option.
+  -  Automate bundle + deployment on push/ merge with master.
 - Find a better way to visualize tech used + Experience/ Usage Per Job.
   - Table
   - Pie/ Donut chart?
