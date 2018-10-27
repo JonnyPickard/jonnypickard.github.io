@@ -129,6 +129,5 @@ Lower priority/ Backlog
 [1]: https://yarnpkg.com/lang/en/docs/workspaces/
 [2]: https://lernajs.io/
 [3]: https://jonnypickard.github.io
-[4]: https://jonnypickard.github.io/jonnypickardjs
+[4]: https://jonnypickard.github.io/jonnypickardjs/
 [5]: https://github.com/JonnyPickard/JonnyPickard.github.io
-[6]: https://github.com/JonnyPickard/jonnypickardjs
