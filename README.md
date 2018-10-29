@@ -1,9 +1,14 @@
 # JonnyPickard.github.io
 
-Portfolio Website
+#### Portfolio Website
 
 The website can be viewed [here][3].  
 The component library can be viewed [here][4].
+
+#### The production code (html + bundle) and the codebase are in different repositories:
+
+The production code can be viewed [here][5].  
+The codebase can be viewed [here][6].
 
 ## Designs
 
@@ -131,3 +136,4 @@ Lower priority/ Backlog
 [3]: https://jonnypickard.github.io
 [4]: https://jonnypickard.github.io/jonnypickardjs/
 [5]: https://github.com/JonnyPickard/JonnyPickard.github.io
+[6]: https://github.com/JonnyPickard/jonnypickardjs/
